@@ -1,0 +1,27 @@
+body {
+  background: #0353a4;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-size: 7rem;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper button {
+  background: #006daa;
+  width: 50vw;
+  height: 50vh;
+  /* border-radius: 100%; */
+  box-shadow: 10px 15px #b9d6f2;
+}
